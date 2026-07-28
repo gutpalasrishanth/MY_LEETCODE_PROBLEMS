@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-clumsy-factorial](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1006-clumsy-factorial) |
+## String
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
