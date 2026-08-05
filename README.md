@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 | [1006-clumsy-factorial](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1006-clumsy-factorial) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1551-minimum-operations-to-make-array-equal) |
 ## Simulation
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
