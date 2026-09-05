@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3904-smallest-stable-index-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Stack
@@ -151,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3903-smallest-stable-index-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
