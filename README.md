@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0944-delete-columns-to-make-sorted) |
+| [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [3227-vowels-game-in-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3227-vowels-game-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
