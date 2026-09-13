@@ -203,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
