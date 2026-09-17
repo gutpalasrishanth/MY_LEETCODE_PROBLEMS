@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0856-score-of-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
