@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1006-clumsy-factorial) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0944-delete-columns-to-make-sorted) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1768-merge-strings-alternately) |
 | [3227-vowels-game-in-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3227-vowels-game-in-a-string) |
