@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0946-validate-stack-sequences) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0925-long-pressed-name) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
 ## Quicksort
 |  |
 | ------- |
