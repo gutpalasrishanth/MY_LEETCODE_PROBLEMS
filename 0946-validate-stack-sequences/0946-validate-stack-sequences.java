@@ -4,20 +4,16 @@ class Solution {
             return false;
         }
         Stack<Integer> s=new Stack<>();
-        int k=0;
-        for(int i=0;i<pushed.length;i++){
+        int j=0;
+        for(int i=0;i<pushed.length&&j<popped.length;i++){
             s.push(pushed[i]);
-            while(!s.isEmpty()&&s.peek()==popped[k]){
-                s.pop();
-                k++;
+            if(!s.isEmpty()&&s.peek()==popped[j]){
+                while(!s.isEmpty()&&j<popped.length&&s.peek()==popped[j]){
+                    j++;
+                    s.pop();
+                }
             }
         }
-        while(!s.isEmpty()){
-            if(s.peek()!=popped[k++]){
-                return false;
-            }
-            s.pop();
-        }
-        return true;
+        return s.isEmpty();
     }
 }
