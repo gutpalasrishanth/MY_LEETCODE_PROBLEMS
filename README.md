@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1006-clumsy-factorial) |
+| [1021-remove-outermost-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
@@ -256,5 +258,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
