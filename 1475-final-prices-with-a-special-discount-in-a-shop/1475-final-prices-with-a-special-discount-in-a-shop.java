@@ -14,5 +14,6 @@ class Solution {
             s.push(i);
         }
         return arr;
+
     }
 }
