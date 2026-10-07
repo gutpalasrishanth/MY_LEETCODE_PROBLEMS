@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0496-next-greater-element-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
 | [2785-sort-vowels-in-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2785-sort-vowels-in-a-string) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0633-sum-of-square-numbers) |
