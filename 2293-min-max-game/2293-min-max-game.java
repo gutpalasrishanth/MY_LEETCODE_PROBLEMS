@@ -5,7 +5,7 @@ class Solution {
             int k=0;
             int iter=0;
             int i=0;
-            while(i<arr.length){
+            while(i<len){
                 if(iter%2==0){
                     arr[k]=Math.min(arr[i],arr[i+1]);
                     i=i+2;
