@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0678-valid-parenthesis-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0925-long-pressed-name) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -312,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0365-water-and-jug-problem) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
