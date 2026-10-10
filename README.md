@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2293-min-max-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2293-min-max-game) |
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 | [1006-clumsy-factorial](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1006-clumsy-factorial) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2396-strictly-palindromic-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2396-strictly-palindromic-number) |
 | [3227-vowels-game-in-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3227-vowels-game-in-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1006-clumsy-factorial) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2293-min-max-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2293-min-max-game) |
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3498-reverse-degree-of-a-string) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Quicksort
 |  |
 | ------- |
@@ -320,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
