@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3904-smallest-stable-index-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Counting Sort
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
 |  |
