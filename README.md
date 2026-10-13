@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0944-delete-columns-to-make-sorted) |
@@ -365,5 +366,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0766-toeplitz-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2319-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
