@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2293-min-max-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2293-min-max-game) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -361,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2319-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
