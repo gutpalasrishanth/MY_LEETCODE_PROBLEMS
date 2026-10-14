@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0946-validate-stack-sequences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1006-clumsy-factorial) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0766-toeplitz-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2319-check-if-matrix-is-x-matrix) |
