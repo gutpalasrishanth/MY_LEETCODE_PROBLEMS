@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 ## Queue
 |  |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0766-toeplitz-matrix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2319-check-if-matrix-is-x-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
