@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 ## Queue
 |  |
