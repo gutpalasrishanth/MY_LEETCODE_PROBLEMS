@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0944-delete-columns-to-make-sorted) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1002-find-common-characters](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0965-univalued-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0965-univalued-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1609-even-odd-tree) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0965-univalued-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1609-even-odd-tree) |
@@ -501,4 +505,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0988-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
