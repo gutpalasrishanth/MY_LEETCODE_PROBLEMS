@@ -28,6 +28,7 @@ class Solution {
         ans(root.left,tar,sum,al,ll);
         ans(root.right,tar,sum,al,ll);
         al.remove(al.size()-1);
+        sum-=root.val;
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> ll=new ArrayList<>();
