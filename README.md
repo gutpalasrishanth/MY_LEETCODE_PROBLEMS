@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0965-univalued-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0965-univalued-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0572-subtree-of-another-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0965-univalued-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
