@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0938-range-sum-of-bst) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0965-univalued-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1609-even-odd-tree) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
