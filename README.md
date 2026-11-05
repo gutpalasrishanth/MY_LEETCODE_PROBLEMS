@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0345-reverse-vowels-of-a-string) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0101-symmetric-tree) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0766-toeplitz-matrix) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0988-smallest-string-starting-from-leaf) |
