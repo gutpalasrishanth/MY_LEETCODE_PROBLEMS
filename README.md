@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
 | [1002-find-common-characters](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2396-strictly-palindromic-number) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2785-sort-vowels-in-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
