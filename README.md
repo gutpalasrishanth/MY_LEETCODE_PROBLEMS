@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0623-add-one-row-to-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0965-univalued-binary-tree) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
