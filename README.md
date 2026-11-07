@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3903-smallest-stable-index-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3731-find-missing-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3731-find-missing-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Counting Sort
 |  |
