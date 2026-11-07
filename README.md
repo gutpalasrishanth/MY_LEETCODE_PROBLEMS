@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2396-strictly-palindromic-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2396-strictly-palindromic-number) |
 | [3227-vowels-game-in-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3227-vowels-game-in-a-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String Matching
 |  |
 | ------- |
