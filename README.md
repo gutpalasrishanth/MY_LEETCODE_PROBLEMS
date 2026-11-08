@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2126-destroying-asteroids](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2126-destroying-asteroids) |
 | [2293-min-max-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2293-min-max-game) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2540-minimum-common-value](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2540-minimum-common-value) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2126-destroying-asteroids](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2126-destroying-asteroids) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2785-sort-vowels-in-a-string) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
+| [2126-destroying-asteroids](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2126-destroying-asteroids) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
