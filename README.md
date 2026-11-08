@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2540-minimum-common-value](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2540-minimum-common-value](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2784-check-if-array-is-good) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3731-find-missing-elements) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
