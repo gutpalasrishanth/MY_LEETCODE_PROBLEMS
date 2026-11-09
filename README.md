@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
 ## Database
 |  |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0938-range-sum-of-bst) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0938-range-sum-of-bst) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -673,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0173-binary-search-tree-iterator) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
 | ------- |
@@ -681,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0563-binary-tree-tilt) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
