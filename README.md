@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0367-valid-perfect-square) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Range Minimum/Maximum Query
 |  |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -702,4 +707,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0703-kth-largest-element-in-a-stream) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
