@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1732-find-the-highest-altitude](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
