@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1936-add-minimum-number-of-rungs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1936-add-minimum-number-of-rungs) |
 | [2126-destroying-asteroids](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2126-destroying-asteroids) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2293-min-max-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2293-min-max-game) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2540-minimum-common-value](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2540-minimum-common-value) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2126-destroying-asteroids](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2126-destroying-asteroids) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2784-check-if-array-is-good](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2785-sort-vowels-in-a-string) |
