@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
 | [1002-find-common-characters](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0496-next-greater-element-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [1002-find-common-characters](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2540-minimum-common-value](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2540-minimum-common-value) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
+| [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2126-destroying-asteroids](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2126-destroying-asteroids) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0274-h-index) |
+| [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -401,11 +405,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
