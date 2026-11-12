@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
