@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0496-next-greater-element-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Ternary Search
 |  |
 | ------- |
