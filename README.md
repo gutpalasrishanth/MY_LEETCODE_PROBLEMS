@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2540-minimum-common-value) |
