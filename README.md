@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1936-add-minimum-number-of-rungs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1936-add-minimum-number-of-rungs) |
+| [2109-adding-spaces-to-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2109-adding-spaces-to-a-string) |
 | [2126-destroying-asteroids](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2126-destroying-asteroids) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2206-divide-array-into-equal-pairs) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2109-adding-spaces-to-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2109-adding-spaces-to-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2396-strictly-palindromic-number) |
 | [2465-number-of-distinct-averages](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2540-minimum-common-value) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2109-adding-spaces-to-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2109-adding-spaces-to-a-string) |
 | [2293-min-max-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2293-min-max-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2109-adding-spaces-to-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2109-adding-spaces-to-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3121-count-the-number-of-special-characters-ii) |
