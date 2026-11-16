@@ -14,14 +14,14 @@
  * }
  */
 class Solution {
-    static TreeNode ans(TreeNode root, int val){
+    TreeNode t;
+    TreeNode ans(TreeNode root,int val){
         if(root==null){
             return null;
         }
         if(root.val==val){
             return root;
-        }
-        if(root.val>val){
+        }else if(root.val>val){
             return ans(root.left,val);
         }else{
             return ans(root.right,val);
