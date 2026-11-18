@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
+| [1219-path-with-maximum-gold](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0766-toeplitz-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1905-count-sub-islands) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1219-path-with-maximum-gold](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1219-path-with-maximum-gold) |
 ## Binary Search Tree
 |  |
 | ------- |
