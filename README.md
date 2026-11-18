@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1905-count-sub-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1905-count-sub-islands) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1609-even-odd-tree) |
 | [1905-count-sub-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1905-count-sub-islands) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0766-toeplitz-matrix) |
+| [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1905-count-sub-islands) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Memoization
@@ -782,5 +786,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1905-count-sub-islands) |
 <!---LeetCode Topics End-->
