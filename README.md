@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0274-h-index) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0257-binary-tree-paths) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0226-invert-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0404-sum-of-left-leaves) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0766-toeplitz-matrix) |
@@ -802,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1905-count-sub-islands) |
 ## Graph Theory
