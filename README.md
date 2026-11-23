@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0633-sum-of-square-numbers) |
 | [1006-clumsy-factorial](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1006-clumsy-factorial) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3903-smallest-stable-index-i) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
@@ -780,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
