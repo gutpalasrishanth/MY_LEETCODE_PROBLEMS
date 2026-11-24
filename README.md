@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
+| [1046-last-stone-weight](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2974-minimum-number-game) |
 ## Database
 |  |
