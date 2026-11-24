@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3731-find-missing-elements) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1905-count-sub-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1905-count-sub-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1609-even-odd-tree) |
 | [1905-count-sub-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1905-count-sub-islands) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1905-count-sub-islands) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
@@ -814,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1905-count-sub-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
