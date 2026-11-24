@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0841-keys-and-rooms) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0965-univalued-binary-tree) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0766-toeplitz-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
@@ -816,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1905-count-sub-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
