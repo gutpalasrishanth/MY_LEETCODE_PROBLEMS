@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2109-adding-spaces-to-a-string) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2396-strictly-palindromic-number](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2396-strictly-palindromic-number) |
 | [2465-number-of-distinct-averages](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2540-minimum-common-value) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2109-adding-spaces-to-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2785-sort-vowels-in-a-string](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/0948-bag-of-tokens) |
 | [1936-add-minimum-number-of-rungs](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/1936-add-minimum-number-of-rungs) |
 | [2126-destroying-asteroids](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2126-destroying-asteroids) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
@@ -854,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/gutpalasrishanth/MY_LEETCODE_PROBLEMS/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 <!---LeetCode Topics End-->
